@@ -7,17 +7,16 @@ Database of 10 customers is created. All customers can be viewed in form of tabl
 
 Output :
 
-![homeTSF](https://user-images.githubusercontent.com/68726065/125172978-3dbf4f00-e1da-11eb-9ace-fff43b213c0e.PNG)
+![homeTSF](https://user-images.githubusercontent.com/68726065/125173358-85df7100-e1dc-11eb-933f-8f7b454ffa60.PNG)
 
-![allCustomersTSF](https://user-images.githubusercontent.com/68726065/125172985-4a43a780-e1da-11eb-98d3-c861a559454e.PNG)
+![allCustomersTSF](https://user-images.githubusercontent.com/68726065/125173361-8aa42500-e1dc-11eb-8285-3fc91be5be81.PNG)
 
-![transfer1](https://user-images.githubusercontent.com/68726065/125173007-68110c80-e1da-11eb-9ac1-2f38cfd3d2e4.PNG)
+![transfer1](https://user-images.githubusercontent.com/68726065/125173363-8e37ac00-e1dc-11eb-9564-27cd4e43b405.PNG)
 
-![transfer1failed](https://user-images.githubusercontent.com/68726065/125173008-6b0bfd00-e1da-11eb-9410-2eaf0c7729ec.PNG)
+![transfer1failed](https://user-images.githubusercontent.com/68726065/125173366-91329c80-e1dc-11eb-9810-96887c1e0f32.PNG)
 
-![transfer2](https://user-images.githubusercontent.com/68726065/125173017-72330b00-e1da-11eb-91c6-869c161e0bed.PNG)
+![transfer2](https://user-images.githubusercontent.com/68726065/125173371-955eba00-e1dc-11eb-9e5c-aa50f220921e.PNG)
 
-![history](https://user-images.githubusercontent.com/68726065/125173023-77905580-e1da-11eb-957d-2cf097133e40.PNG)
+![history](https://user-images.githubusercontent.com/68726065/125173373-9859aa80-e1dc-11eb-9e6d-950532e3eb6d.PNG)
 
-![final view](https://user-images.githubusercontent.com/68726065/125173029-7d863680-e1da-11eb-81d9-97e60c2dcf94.PNG)
-
+![final view](https://user-images.githubusercontent.com/68726065/125173374-9b549b00-e1dc-11eb-9bf3-bec6f36ea6f0.PNG)
