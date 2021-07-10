@@ -1,0 +1,225 @@
+/*#abdca7
+248e38
+afd91a
+323232*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.header{
+    background: radial-gradient(#fff, #abdca7);
+}
+
+.lastPage{
+    background: radial-gradient(#fff, #abdca7);
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+nav{
+    flex: 1;
+    text-align: right;
+}
+
+nav ul{
+    display: inline-block;
+    list-style-type: none;
+}
+
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #555;
+}
+
+a:hover{
+    color: black;
+}
+
+.middle h6, h1, p{
+    text-align: center;
+}
+
+.middle h1{
+    font-size: 52px;
+}
+
+.btn{
+    width: 220px;
+    border-radius: 10px;
+    background-color: green;
+    color: ivory;
+    padding: 10px 15px;
+    transition: background 0.5s;
+    transition: width 0.5s;
+}
+
+.btn:hover{
+    color: white;
+    background-color: #2fd693;
+    width: 210px;
+    box-shadow: 0 0 5px 2px rgba(93, 194,153, 0.5);
+}
+
+.middle .btn{
+    margin-left: 300px;
+    margin-top: 10px;
+    margin-bottom: 150px;
+}
+
+.bankImg{
+    width: 1080px;
+    border: 30px solid #fff;
+    margin-left: 100px;
+    margin-top: -100px;
+    height: 600px;
+}
+
+.title{
+    text-align: center;
+    margin: 0 auto 40px;
+    position: relative;
+    line-height: 60px;
+    color: #555;
+}
+
+.title::after{
+    content: '';
+    width: 200px;
+    height: 5px;
+    border-radius: 5px;
+    background-color: #61be9b;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+}
+
+.table-row{
+    display: table;
+    width: 80%;
+    margin: 0px auto;
+    background: transparent;
+    padding: 12px 0;
+    color: #555;
+    font-size: 14px;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 50, 0.3);
+    transition: background 0.5s;
+}
+
+.table-row:hover{
+    background-color: ivory;
+}
+
+.table-cell{
+    display: table-cell;
+    width: 350px;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.first-cell{
+    text-align: left;
+    padding-left: 40px;
+}
+
+.table-head{
+    background-color: yellowgreen;
+    box-shadow: none;
+    color: #fff;
+    font-weight: 600;
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.last-cell{
+    text-align: right;
+    padding-right: 40px;
+}
+
+.table-cell .btn{
+    width: 180px;
+    padding: 3px 5px;
+}
+
+.info b{
+    color: #444;
+    line-height: 18px;
+    padding-bottom: 5px;
+}
+
+.small-header{
+    color: #444;
+    line-height: 18px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid green;
+    font-size: 22px;
+    margin-top: 50px;
+}
+
+.info p{
+    text-align: left;
+    font-size: 14px;
+}
+
+.btn-send{
+    padding: 3px 5px;
+    width: 160px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.btn-send:hover{
+    width: 170px;
+}
+
+select{
+    margin-left: 40px;
+    padding: 8px 50px;
+    background-color: ivory;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+select:focus{
+    outline: none;
+}
+
+input{
+    margin-left: 25px;
+    width: 280px;
+    line-height: 30px;
+    padding-left: 50px;
+    border-radius: 10px;
+    background-color: ivory;
+}
+
+input:focus{
+    outline: none;
+}
+
+.col-lg-6 img{
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
