@@ -10,11 +10,11 @@
     <div class="container">
     <div class="navbar">
             <div class="logo">
-                <a href="home.php"><img src="images/bankLogo.png" width="60px"></a>
+                <a href="index.php"><img src="images/bankLogo.png" width="60px"></a>
             </div>
             <nav>
                 <ul id="MenuItems">
-                    <li><a href="home.php">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li><a href="viewcustomers.php">Customers</a></li>
                     <li><a href="transferhistory.php">Transfers</a></li>
                 </ul>
