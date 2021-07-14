@@ -118,7 +118,7 @@ a:hover{
     margin: 0px auto;
     background: transparent;
     padding: 12px 0;
-    color: #555;
+    color: #333;
     font-size: 14px;
     box-shadow: 0 1px 4px 0 rgba(0, 0, 50, 0.3);
     transition: background 0.5s;
@@ -126,6 +126,8 @@ a:hover{
 
 .table-row:hover{
     background-color: ivory;
+    color: black;
+    font-weight: 600;
 }
 
 .table-cell{
